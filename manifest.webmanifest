@@ -1,0 +1,16 @@
+{
+  "name": "Examenvault 2027",
+  "short_name": "Examenvault",
+  "description": "Samenvattingen voor de eindexamens vwo 2027",
+  "lang": "nl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#faf8f8",
+  "theme_color": "#284b63",
+  "icons": [
+    { "src": "/icoon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icoon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icoon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
